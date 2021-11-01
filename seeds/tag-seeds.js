@@ -8,9 +8,6 @@ const tagData = [
     tag_name: 'pop music',
   },
   {
-    tag_name: 'country music',
-  },
-  {
     tag_name: 'blue',
   },
   {
@@ -26,8 +23,8 @@ const tagData = [
     tag_name: 'gold',
   },
   {
-    tag_name: 'culture'
-  }
+    tag_name: 'pop culture',
+  },
 ];
 
 const seedTags = () => Tag.bulkCreate(tagData);
