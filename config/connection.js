@@ -1,7 +1,6 @@
 const Sequelize = require('sequelize');
 
-// All data from .env is loaded into process.env
-require('dotenv').config(); 
+require('dotenv').config();
 
 let sequelize;
 
@@ -14,6 +13,5 @@ if (process.env.JAWSDB_URL) {
     port: 3306
   });
 }
-
 
 module.exports = sequelize;
