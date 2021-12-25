@@ -5,11 +5,11 @@ This is an application that allows the user to edit the backend through front en
 
 # 2. Tips
 To run the application locally use the following commands:
-    * run mysql terminal at project source location source db/schema.sql
-    * npm i
-    * npm run seed
-    * npm start
-    * then use Insomnia to test the features
+    *run mysql terminal at project source location source db/schema.sql
+    *npm i
+    *npm run seed
+    *npm start
+    *then use Insomnia to test the features
 
 # 3. Features
     * GET all Products/Tags/Categories
