@@ -5,7 +5,7 @@ This is an application that allows the user to edit the backend through front en
 
 Github application link: https://github.com/cbushehry/e-commerce-backend/
 
-## 2. Tips
+## 2. Tips / Demo
 To run the application locally use the following commands:
 
 * run mysql terminal at project source location source db/schema.sql
@@ -13,6 +13,10 @@ To run the application locally use the following commands:
 * npm run seed
 * npm start
 * then use Insomnia to test the features
+
+DEMO part 1: https://watch.screencastify.com/v/v7iVzd1khrxMCiojVdhm
+
+DEMO part 2: https://watch.screencastify.com/v/EQNGAoRy0nOwhC18Ieac
 
 ## 3. Features
     * GET all Products/Tags/Categories
